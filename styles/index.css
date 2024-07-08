@@ -1,0 +1,14 @@
+@import url("./global/importFonts.css");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+:root {
+  --gray-100: #c0c0c0;
+  --black: black;
+  --gray-20: #f1f1f1;
+  --violet: #701c46;
+  --white: #f5fafa;
+}
